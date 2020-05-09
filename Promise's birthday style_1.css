@@ -1,0 +1,15 @@
+body {
+  background-color:grey;
+  background: url(Promix.jpg)
+}
+h1 {
+  border: 2px solid grey;
+  font-family:algerian;
+  font-size:50px;
+  width:50%;
+  margin:600px 300px 80px;
+  color:white;
+  text-align:center;
+  background:lightgrey;
+  padding: 20px;
+}
